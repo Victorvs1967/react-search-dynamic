@@ -1,5 +1,18 @@
+input {
+  font-size: 1rem;
+  border-radius: 1.5rem;
+  border: solid 1px #262626;
+  margin: auto;
+  margin-top: 2rem;
+  padding: 10px 16px;
+}
+
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
 }
 
 .App-logo {
